@@ -1,0 +1,8 @@
+{
+  "name": "ReactionLab AI",
+  "description": "A visually immersive, interactive chemical reaction simulator powered by Gemini. Visualize molecular interactions, energy profiles, and learn chemistry concepts in a cinematic interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
